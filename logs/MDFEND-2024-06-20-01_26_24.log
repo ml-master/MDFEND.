@@ -1,0 +1,7 @@
+2024-06-20 01:26:24,385 - INFO - Tensorboard log is saved in tb_logs/MDFEND-2024-06-20-01_26_24
+2024-06-20 01:26:24,385 - INFO - log file is saved in logs/tb_logs/MDFEND-2024-06-20-01_26_24.log
+
+2024-06-20 01:26:24,385 - INFO - training data size=35262
+2024-06-20 01:26:24,386 - INFO - ----start training-----
+
+2024-06-20 01:26:24,386 - INFO - epoch=[0/49]
