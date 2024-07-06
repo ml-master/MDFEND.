@@ -22,7 +22,8 @@ reproducing and developing fake news detection algorithms. It includes **22 mode
 - content based
 - social context
 
-本仓库基于faknow模块，使用其中的MDFEND算法进行假新闻检测，数据集使用megafake-1_style_based_fake.json和megafake-7_integration_based_legitimate_tn300.json（https://github.com/SZULLM/GossipCop-MMLLM）进行测试，运行claf.py和claf7.py对数据集进行添加标签处理，然后使用split函数进行随机划分训练集和测试集合train.py和test.py。直接运行run1.py即可进行训练和测试。训练和测试的结果保存在logs/MDFEND-2024-06-20-01_26_46.log中，测试结果如下：
+本仓库基于faknow模块，使用其中的MDFEND算法进行假新闻检测，数据集使用megafake-1_style_based_fake.json和megafake-7_integration_based_legitimate_tn300.json（https://github.com/SZULLM/GossipCop-MMLLM）
+进行测试，运行claf.py和claf7.py对数据集进行添加标签处理，然后使用split函数进行随机划分训练集和测试集合train.py和test.py。直接运行run1.py即可进行训练和测试。训练和测试的结果保存在logs/MDFEND-2024-06-20-01_26_46.log中，测试结果如下：
 
 
 ## Features
